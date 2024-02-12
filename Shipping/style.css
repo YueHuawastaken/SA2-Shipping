@@ -12,3 +12,7 @@
     display : none;
     margin : 20px;
 }
+#addButton {
+    background-color: yellow; 
+    color: red;
+}
