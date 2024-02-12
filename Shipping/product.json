@@ -1,0 +1,17 @@
+{
+    "products" : [
+        {
+            "ID" : 123,
+            "Name" : "Naruto Resin",
+            "Value" : "400SGD"
+        },
+        {  "ID" : 456,
+            "Name" : "Sasuke Resin",
+            "Value" : "500SGD"
+        },
+        {   "ID" : 789,
+             "Name" : "Gojo Resin",
+             "Value" : "600SGD"
+        }
+    ]
+}

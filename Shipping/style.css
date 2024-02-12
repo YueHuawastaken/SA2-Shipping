@@ -8,3 +8,7 @@
 .navbar-brand {
     font-family: cursive;
 }
+#displayItems {
+    display : none;
+    margin : 20px;
+}

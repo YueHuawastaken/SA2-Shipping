@@ -1,10 +1,18 @@
-const productId = [
-    {
-        "ID" : 123,
-        "Name" : "Naruto Resin",
-        "Value" : "400SGD",
-    }
-]
+// const productId = [
+//     {
+//         "ID" : 123,
+//         "Name" : "Naruto Resin",
+//         "Value" : "400SGD",
+//     },
+//     {  "ID" : 456,
+//         "Name" : "Sasuke Resin",
+//         "Value" : "500SGD"
+//     },
+//     {   "ID" : 789,
+//          "Name" : "Gojo Resin",
+//          "Value" : "600SGD" 
+//         },
+// ]
 function displayProducts (productId) {
     console.log ("Your Items");
     console.log ();
@@ -14,4 +22,6 @@ function displayProducts (productId) {
         console.log("Value :", p.Value);
     }
 }
-displayProducts(productId); 
+// displayProducts(productId); 
+
+// function createProduct 
